@@ -22,4 +22,4 @@ javac Main.java
 java Main
 ```
 
-程序将输出：`Hello World`
+程序将输出：`您好，世界`
